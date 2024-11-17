@@ -857,3 +857,13 @@
   cursor: default;
   opacity: .24;
 }
+
+.main__img--card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+}
