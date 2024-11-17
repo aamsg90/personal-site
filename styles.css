@@ -867,3 +867,7 @@
 a {
   text-decoration: none;
 }
+
+body, html {
+  overflow-x: hidden;
+}
