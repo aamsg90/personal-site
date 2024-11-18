@@ -16,6 +16,7 @@
     position: sticky;
     top: 0;
     z-index: 999;
+    
   }
   
   .navbar__container {
@@ -27,6 +28,7 @@
     max-width: 1300px;
     margin: 0 auto;
     padding: 0 50px;
+ 
   }
   
   #navbar__logo {
@@ -48,6 +50,7 @@
     display: flex;
     align-items: center;
     list-style: none;
+   
   }
   
   .navbar__item {
@@ -671,7 +674,7 @@
   }
   
   .social__media {
-    max-width: 1000px;
+    max-width: 750px;
     width: 100%;
   }
   
@@ -868,6 +871,3 @@ a {
   text-decoration: none;
 }
 
-body, html {
-  overflow-x: hidden;
-}
